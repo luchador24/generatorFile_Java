@@ -1,0 +1,14 @@
+read me: IDE apache netbeans, utilizando el lenguaje de programación java
+
+En el apartado del programa debera de agregar el SpireDoc.jar proporcionado en esta carpeta al programa, en el apartado de
+apache netbeans de Libraries --> ADD JAR y seleccionarlo.
+
+Luego en el package de Vistas deberá seleccionar el apartado de Backups.java, ir a source, identificar la linea 290
+para cambiar el hostname (DESKTOP-MCNU6R0) por el hostname de  su computadora, de igual manera en la línea de 360 deberá de 
+cambiar el hostname
+
+Por último a la hora de estar ejecutando los Backups y Restores deberá de ingresar la contraseña de su DBMS que esté 
+utilizando 
+
+NOTA: de preferencia que las contraseñas de los DBMS no tenga el caracter especial '@' debido a que en el CMD no permite
+ingresarlo.
